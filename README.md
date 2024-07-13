@@ -1,5 +1,6 @@
 # Connect_4_Game
-I made this Connect Four game with Python and Pygame! Drop discs, try to connect four in a row, and challenge the AI. Fun graphics and easy gameplay make it a blast! ;)
+
+I made this Connect Four game with Python and Pygame! Drop discs, try to connect four in a row, and challenge the AI. Fun graphics and easy gameplay making it a blast! ;)
 
 <img width="527" alt="image" src="https://github.com/omkartadas/Connect_4_Game/assets/119300446/023e1f4a-808f-4149-aa23-99c312cad3e9">
 
