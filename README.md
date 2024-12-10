@@ -6,4 +6,4 @@ I made this Connect Four game with Python and Pygame! Drop discs, try to connect
 
 
 <img width="527" alt="Screenshot 2024-05-28 162004" src="https://github.com/omkartadas/Connect_4_Game/assets/119300446/cc9a2903-b4e8-4057-91f8-5a6b9334a77b">
-[meowmewo.pdf](https://github.com/user-attachments/files/18083632/meowmewo.pdf)
+
